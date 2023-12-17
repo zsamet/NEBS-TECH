@@ -1,0 +1,142 @@
+amaclar,uzun_yolculuk,yakit,arac_tipi,butce,oneri
+Şehir içi kullanım,Hiç,Elektrik,Hatchback,1m - 2m,MINI Electric
+Doğa gezisi,Nadiren,Hibrit,SUV,4m - 5m,BMW iX3
+Şehirler arası,Sık sık,Dizel,Sedan,5m - 6m,BMW 5 Serisi
+Şehir içi kullanım,Her zaman,Benzin,SUV,7m - 8m,BMW X7
+Doğa gezisi,Çoğunlukla,Elektrik,Coupé,3m - 4m,BMW i4
+Şehirler arası ulaşım,Nadiren,Benzin,Sedan,3m - 4m,BMW 3 Serisi
+Doğa gezisi,Hiç,Hibrit,SUV,5m - 6m,Range Rover Velar
+Şehir içi kullanım,Sık sık,Elektrik,Compact,2m - 3m,BMW i3
+Doğa gezisi,Her zaman,Dizel,SUV,6m - 7m,Land Rover Defender
+Şehirler arası ulaşım,Çoğunlukla,Benzin,Hatchback,1m - 2m,MINI Countryman
+Şehirler arası ulaşım,Hiç,Benzin,Sedan,2m - 3m,BMW 2 Serisi
+Doğa gezisi,Nadiren,Dizel,SUV,4m - 5m,Land Rover Discovery
+Şehir içi kullanım,Sık sık,Elektrik,Compact,1m - 2m,BMW iX1
+Şehirler arası ulaşım,Her zaman,Hibrit,Coupé,3m - 4m,BMW 4 Serisi
+Şehir içi kullanım,Çoğunlukla,Benzin,SUV,5m - 6m,Jaguar F-PACE
+Doğa gezisi,Nadiren,Elektrik,Hatchback,<2m,MINI Electric
+Şehirler arası ulaşım,Sık sık,Dizel,SUV,6m - 7m,BMW X5
+Şehir içi kullanım,Hiç,Hibrit,Sedan,3m - 4m,BMW 330e
+Doğa gezisi,Çoğunlukla,Benzin,SUV,7m - 8m,Range Rover Sport
+Şehirler arası ulaşım,Her zaman,Elektrik,Compact,2m - 3m,Jaguar I-PACE
+Şehir içi kullanım,Hiç,Elektrik,Compact,<2m,BMW i3
+Doğa gezisi,Nadiren,Hibrit,SUV,2m - 3m,Range Rover Evoque
+Şehirler arası ulaşım,Sık sık,Dizel,Sedan,3m - 4m,BMW 7 Serisi
+Şehir içi kullanım,Her zaman,Benzin,Coupé,5m - 6m,Jaguar F-TYPE
+Doğa gezisi,Çoğunlukla,Elektrik,Hatchback,1m - 2m,MINI Electric
+Şehirler arası ulaşım,Nadiren,Benzin,Sedan,2m - 3m,Jaguar XE
+Şehir içi kullanım,Sık sık,Dizel,SUV,4m - 5m,BMW X3
+Doğa gezisi,Her zaman,Hibrit,SUV,6m - 7m,Land Rover Discovery
+Şehir içi kullanım,Çoğunlukla,Elektrik,Compact,<2m,BMW iX1
+Şehirler arası ulaşım,Nadiren,Benzin,Hatchback,3m - 4m,MINI Countryman
+Şehir içi kullanım,Hiç,Benzin,Hatchback,<2m,MINI 3 Kapı
+Doğa gezisi,Nadiren,Elektrik,SUV,3m - 4m,BMW iX
+Şehirler arası ulaşım,Sık sık,Dizel,Sedan,4m - 5m,Jaguar XF
+Şehir içi kullanım,Her zaman,Hibrit,Coupé,5m - 6m,BMW 8 Serisi
+Doğa gezisi,Çoğunlukla,Benzin,SUV,6m - 7m,Range Rover Sport
+Şehirler arası ulaşım,Nadiren,Elektrik,Sedan,2m - 3m,BMW i4
+Şehir içi kullanım,Sık sık,Dizel,SUV,3m - 4m,Land Rover Discovery
+Doğa gezisi,Her zaman,Hibrit,SUV,6m - 7m,BMW X5
+Şehir içi kullanım,Çoğunlukla,Elektrik,Compact,<2m,BMW i3
+Şehirler arası ulaşım,Nadiren,Benzin,Hatchback,2m - 3m,MINI Countryman
+Şehir içi kullanım,Hiç,Benzin,Sedan,2m - 3m,BMW 3 Serisi
+Doğa gezisi,Nadiren,Elektrik,SUV,3m - 4m,BMW iX
+Şehirler arası ulaşım,Sık sık,Dizel,Coupé,4m - 5m,Jaguar F-Type
+Şehir içi kullanım,Her zaman,Hibrit,SUV,5m - 6m,Range Rover Velar
+Doğa gezisi,Çoğunlukla,Benzin,Hatchback,1m - 2m,MINI 5 Kapı
+Şehirler arası ulaşım,Nadiren,Elektrik,Sedan,2m - 3m,BMW i4
+Şehir içi kullanım,Sık sık,Dizel,SUV,3m - 4m,Land Rover Discovery
+Doğa gezisi,Her zaman,Hibrit,SUV,6m - 7m,BMW X5
+Şehir içi kullanım,Çoğunlukla,Elektrik,Compact,<2m,BMW i3
+Şehir içi kullanım,Hiç,Elektrik,Compact,1m - 2m,BMW iX1
+Doğa gezisi,Nadiren,Hibrit,SUV,2m - 3m,BMW X5
+Şehirler arası ulaşım,Sık sık,Dizel,Sedan,3m - 4m,BMW 7 Serisi
+Şehir içi kullanım,Her zaman,Benzin,Coupé,5m - 6m,Jaguar F-TYPE
+Doğa gezisi,Çoğunlukla,Elektrik,Hatchback,<2m,MINI Electric
+Şehirler arası ulaşım,Nadiren,Benzin,Sedan,2m - 3m,Jaguar XE
+Şehir içi kullanım,Sık sık,Dizel,SUV,4m - 5m,Land Rover Discovery
+Doğa gezisi,Her zaman,Hibrit,SUV,6m - 7m,Range Rover Sport
+Şehir içi kullanım,Çoğunlukla,Elektrik,Compact,<2m,BMW i3
+Şehirler arası ulaşım,Nadiren,Benzin,Hatchback,3m - 4m,MINI Countryman
+Hafta sonu kaçamakları,Nadiren,Benzin,Cabrio,5m - 6m,BMW Z4
+Şehir dışı iş seyahatleri,Sık sık,Hibrit,Sedan,3m - 4m,BMW 530e
+Aile tatilleri,Her zaman,Dizel,SUV,6m - 7m,Land Rover Defender
+Günlük iş kullanımı,Hiç,Elektrik,Compact,<2m,Jaguar I-PACE
+Şehir içi pratik kullanım,Çoğunlukla,Benzin,Hatchback,2m - 3m,MINI 5 Kapı
+Gece şehir yaşamı,Nadiren,Benzin,Coupe,4m - 5m,BMW 4 Serisi
+Uzun mesafe yolculuklar,Sık sık,Dizel,SUV,7m - 8m,Range Rover Vogue
+Günlük kısa mesafeler,Hiç,Elektrik,Compact,<2m,BMW iX3
+Hafta sonu gezileri,Çoğunlukla,Benzin,SUV,3m - 4m,Jaguar E-PACE
+Günlük şehir içi kullanım,Nadiren,Hibrit,Sedan,2m - 3m,BMW 330e
+Şehir içi kullanım,Hiç,Benzin,Sedan,2m - 3m,BMW 1 Serisi
+Doğa gezisi,Nadiren,Elektrik,SUV,3m - 4m,Jaguar I-PACE
+Şehirler arası ulaşım,Sık sık,Hibrit,Coupé,5m - 6m,BMW i8
+Şehir içi kullanım,Her zaman,Dizel,SUV,6m - 7m,Land Rover Defender
+Doğa gezisi,Çoğunlukla,Benzin,Hatchback,<2m,MINI 5 Kapı
+Şehirler arası ulaşım,Nadiren,Elektrik,Sedan,2m - 3m,BMW 330e
+Şehir içi kullanım,Sık sık,Dizel,SUV,4m - 5m,BMW X3
+Doğa gezisi,Her zaman,Hibrit,SUV,7m - 8m,BMW X6
+Şehir içi kullanım,Çoğunlukla,Elektrik,Compact,<2m,BMW i3
+Şehirler arası ulaşım,Nadiren,Benzin,Hatchback,3m - 4m,Range Rover Evoque
+Şehirlerarası iş seyahatleri,Hiç,Benzin,Sedan,2m - 3m,BMW 320i
+Hafta sonu doğa gezileri,Nadiren,Dizel,SUV,6m - 7m,Land Rover Range Rover
+Günlük şehir içi trafik,Sık sık,Elektrik,Compact,1m - 2m,BMW i3
+Uzun mesafe aile seyahatleri,Her zaman,Hibrit,SUV,7m - 8m,BMW X7
+Günlük işe gidip gelme,Çoğunlukla,Benzin,Sedan,3m - 4m,Jaguar XF
+Hafta sonu kısa turlar,Nadiren,Elektrik,Hatchback,<2m,MINI Electric
+Şehir dışı macera turları,Sık sık,Dizel,SUV,5m - 6m,Land Rover Discovery
+Günlük rahat şehir içi sürüş,Hiç,Benzin,Compact,2m - 3m,BMW 1 Serisi
+Uzun yolculuklar için konfor,Her zaman,Hibrit,Sedan,6m - 7m,BMW 530e
+Şehir içi ve dışı çeşitli kullanımlar,Çoğunlukla,Elektrik,SUV,4m - 5m,Jaguar I-PACE
+Şehir içi iş gezileri,Hiç,Benzin,Sedan,2m - 3m,BMW 320i Sedan
+Haftalık kırsal kaçamaklar,Sık sık,Dizel,SUV,5m - 6m,Range Rover Sport
+Günlük şehir kullanımı,Nadiren,Elektrik,Compact,<2m,MINI Electric
+Uzun mesafe yolculuklar,Her zaman,Hibrit,Sedan,6m - 7m,BMW 530e
+Şehirlerarası iş seyahatleri,Nadiren,Benzin,Sedan,3m - 4m,Jaguar XE
+Hafta sonu maceraları,Hiç,Dizel,SUV,4m - 5m,Land Rover Discovery
+Günlük şehir içi trafik,Sık sık,Elektrik,Hatchback,2m - 3m,BMW i3
+Aile ile uzun seyahatler,Her zaman,Benzin,SUV,7m - 8m,BMW X7
+Doğa keşifleri,Çoğunlukla,Hibrit,SUV,5m - 6m,BMW X5
+Şehir içi ve dışı çeşitli kullanımlar,Nadiren,Benzin,Hatchback,3m - 4m,MINI Countryman
+Günlük şehir içi yolculuk,Hiç,Elektrik,Compact,1m - 2m,BMW i3
+Hafta sonu yolculuklar,Nadiren,Benzin,SUV,3m - 4m,Range Rover Evoque
+Uzun iş seyahatleri,Sık sık,Dizel,Sedan,4m - 5m,BMW 5 Serisi
+Şehirlerarası gezi,Her zaman,Hibrit,SUV,5m - 6m,Range Rover Sport
+Şehir içi kısa mesafeler,Çoğunlukla,Benzin,Hatchback,2m - 3m,MINI Cooper
+Günlük işe gidip gelme,Hiç,Elektrik,Sedan,3m - 4m,Jaguar XE
+Doğa gezileri,Nadiren,Dizel,SUV,6m - 7m,Land Rover Defender
+Şehir içi yoğun trafik,Sık sık,Hibrit,Compact,<2m,BMW 218i
+Kısa mesafe hafta sonu seyahatleri,Her zaman,Benzin,SUV,2m - 3m,MINI Countryman
+İş gezileri,Çoğunlukla,Elektrik,Sedan,4m - 5m,BMW i4
+Şehir merkezi iş gezileri,Hiç,Hibrit,Sedan,3m - 4m,BMW 330e
+Hafta sonu kamp gezileri,Çoğunlukla,Dizel,SUV,5m - 6m,Land Rover Defender
+Günlük alışveriş turları,Nadiren,Elektrik,Hatchback,<2m,MINI Electric
+Aile ile şehir dışı geziler,Sık sık,Benzin,SUV,6m - 7m,BMW X5
+Günlük şehir içi yolculuklar,Hiç,Elektrik,Compact,2m - 3m,BMW i3
+Uzun mesafe iş seyahatleri,Her zaman,Dizel,Sedan,3m - 4m,Jaguar XF
+Şehir içi ve dışı karışık kullanım,Çoğunlukla,Hibrit,SUV,4m - 5m,BMW X3
+Günlük rahat şehir içi sürüş,Nadiren,Benzin,Sedan,5m - 6m,BMW 5 Serisi
+Hafta sonu yolculukları,Sık sık,Elektrik,Compact,<2m,MINI Countryman
+Doğa yürüyüşleri için geziler,Her zaman,Dizel,SUV,7m - 8m,Range Rover Evoque
+Şehir içi iş gezileri,Hiç,Benzin,Sedan,2m - 3m,BMW 3 Serisi
+Hafta sonu doğa gezileri,Sık sık,Hibrit,SUV,4m - 5m,Range Rover Sport
+Günlük şehir içi alışveriş,Nadiren,Elektrik,Hatchback,<2m,MINI Electric
+Aile ile hafta sonu gezileri,Her zaman,Benzin,SUV,5m - 6m,BMW X5
+Gündelik şehir içi ve dışı kullanım,Çoğunlukla,Dizel,SUV,4m - 5m,BMW X3
+Şehir dışı hafta sonu kaçamakları,Nadiren,Hibrit,Coupe,6m - 7m,BMW 8 Serisi
+Günlük işe gidip gelme,Hiç,Elektrik,Compact,<2m,BMW i3
+Şehir içi yoğun trafik,Sık sık,Benzin,Sedan,3m - 4m,BMW 5 Serisi
+Hafta sonu şehir dışı geziler,Nadiren,Dizel,SUV,5m - 6m,Land Rover Discovery
+Günlük iş seyahatleri,Nadiren,Elektrik,Compact,<2m,BMW iX1
+Şehir dışı macera turları,Sık sık,Dizel,SUV,6m - 7m,Range Rover Evoque
+Hafta sonu şehir gezileri,Hiç,Benzin,Hatchback,2m - 3m,MINI 3 Kapı
+Aile ile uzun yolculuklar,Her zaman,Hibrit,Sedan,5m - 6m,BMW 530e
+Şehir içi yoğun trafik,Nadiren,Elektrik,Compact,<2m,BMW i3
+Doğa gezileri için hafta sonları,Sık sık,Benzin,SUV,4m - 5m,BMW X3
+Günlük şehir içi kullanım,Hiç,Elektrik,Sedan,3m - 4m,BMW i4
+Uzun mesafe iş gezileri,Çoğunlukla,Dizel,SUV,5m - 6m,Jaguar F-PACE
+Hafta içi işe gidip gelme,Nadiren,Benzin,Coupe,2m - 3m,BMW Z4
+Şehir içi ve dışı karışık kullanım,Hiç,Elektrik,Compact,<2m,MINI Electric
+Doğa gezisi,Her zaman,Dizel,SUV,5m-6m,Land Rover Defender
+Uzun mesafe iş gezileri,Çoğunlukla,Dizel,SUV,5m - 6m,Jaguar F-PACE
+Şehir içi yoğun trafik,Nadiren,Elektrik,Compact,<2m,BMW i3
